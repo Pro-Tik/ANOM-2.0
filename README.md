@@ -54,11 +54,15 @@ Each node only knows where to send the message next, not who sent it or what it 
 
 ---
 
-## How to Use (For the upcoming release)
-- Install Python 3.9+
-- Clone this repo
-- Run `python anom.py`
-- Set username and start chatting by connecting to peers
+## How to Use (Step-by-Step)
+1. Install Python 3.9 or newer.
+2. Clone this repository to your computer.
+3. Open terminal or command prompt and navigate to the cloned directory.
+4. Run the program with `python anom.py`.
+5. On first launch, set your username.
+6. Share your username or node info with friends.
+7. Add peer nodes using their usernames or IPs in the config.
+8. Start sending and receiving anonymous, unstoppable messages!
 
 ---
 
